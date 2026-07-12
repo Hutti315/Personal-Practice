@@ -1,2 +1,2 @@
-# Personal-Practice
-This is repository for my processing learning code
+# My First Applied Project
+Welcome to my project repository!
